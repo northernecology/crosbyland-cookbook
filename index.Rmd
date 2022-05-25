@@ -14,36 +14,29 @@ github-repo: rstudio/bookdown-demo
 ---
 
 # About
+These are some random trial recipes
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+## Pickles
 
-## Usage 
+### Rhubarb pickls 
+On May 25, 2022, I tried my first batch of pickled rhubarb (we have a LOT of rhubarb from only 2 plants in the bakcyard). 
 
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
+Ingredients: 
+* 7 rhubarb stalks, cut in 1 inch pieces  
+* 1 big garlic clove, minced  
+* 1 Tbsp black peppercorns 
+* 1.5 tsp creamed horse radish root
+* 2.5% brine solution: 425 grams of water mixed with 10 grams of pickling salt
 
-Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
+I put the garlic, peppercorns, and horse radish into the bottom of the jar, and then the rhubarb pieces on top. The rhubarb came almost tothe top of the jar. 
 
-The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
+I made the brine with room temperature bottled water from Costco mixed with Roger's pickling salt, and stirred until the salt was dissolved. 
 
-## Render book
+I poured the brine over the rhubarb and it was just enough to cover all the rubarb. I put a half-pint jar on top of everything to keep the vegetables submerged, and secured it all by putting a piece of cheese cloth over the top and securing it to the big jar with a rubber band. 
 
-You can render the HTML version of this example book without changing anything:
+Now I will wait 2 weeks and see what I get. 
 
-1. Find the **Build** pane in the RStudio IDE, and
 
-1. Click on **Build Book**, then select your output format, or select "All formats" if you'd like to use multiple formats from the same book source files.
-
-Or build the book from the R console:
-
-```{r, eval=FALSE}
-bookdown::render_book()
-```
-
-To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
-
-## Preview book
-
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
 
 ```{r eval=FALSE}
 bookdown::serve_book()
