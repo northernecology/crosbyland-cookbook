@@ -18,34 +18,33 @@ These are some random trial recipes
 
 ## Pickles
 
-### Rhubarb pickls 
-On May 25, 2022, I tried my first batch of pickled rhubarb (we have a LOT of rhubarb from only 2 plants in the bakcyard). 
+### Rhubarb pickles 
+On May 25, 2022, I tried my first batch of pickled rhubarb (we have a *LOT* of rhubarb from only 2 plants in the backyard). The recipe comes from [phickle.com](http://phickle.com/spring-pickles-rhubarb-and-asparagus/)
 
-Ingredients: 
+Ingredients:  
+
 * 7 rhubarb stalks, cut in 1 inch pieces  
-* 1 big garlic clove, minced  
-* 1 Tbsp black peppercorns 
-* 1.5 tsp creamed horse radish root
-* 2.5% brine solution: 425 grams of water mixed with 10 grams of pickling salt
-
-I put the garlic, peppercorns, and horse radish into the bottom of the jar, and then the rhubarb pieces on top. The rhubarb came almost tothe top of the jar. 
-
-I made the brine with room temperature bottled water from Costco mixed with Roger's pickling salt, and stirred until the salt was dissolved. 
-
-I poured the brine over the rhubarb and it was just enough to cover all the rubarb. I put a half-pint jar on top of everything to keep the vegetables submerged, and secured it all by putting a piece of cheese cloth over the top and securing it to the big jar with a rubber band. 
-
-Now I will wait 2 weeks and see what I get. 
+* 1 big garlic clove, minced   
+* 1 Tbsp black peppercorns  
+* 1.5 tsp creamed horse radish root  
+* 2.5% brine solution: 425 grams of water mixed with 10 grams of pickling salt  
 
 
+I put the garlic, peppercorns, and horse radish into the bottom of the jar, and then the rhubarb pieces on top. The rhubarb came almost to the top of the jar.  
 
-```{r eval=FALSE}
-bookdown::serve_book()
-```
+I made the brine with room temperature bottled water from Costco mixed with Rogers pickling salt, and stirred until the salt was dissolved.  
+
+I poured the brine over the rhubarb and it was just enough to cover everything. I put a half-pint jar on top of everything to keep the vegetables submerged, and secured it all by putting a piece of cheese cloth over the top and securing it to the big jar with a rubber band.  
+
+Now I will wait 2 weeks and see what I get.  
+
+May 31: Everythign looks and smells fine. No mold. I don't see any bubbling in the jar though. 
 
 
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
+### Sauerkraut 
+On May 29, Sebastian and I made our first batch of sauerkraut together. I had made some years earlier in a bucket (when I lived in Michigan), and that came out really well. This time we used a 1-Litre canning jar and followed the base recipe from [makesauerkraut.com](https://www.makesauerkraut.com/sure-fire-sauerkraut-in-a-jar/). 
+
+We had some trouble using the cabbage leaf trick to do the full submerge. We didn't have a half-pint canning jar, so used a small cup instead. Littel bits of carrot kept floating to the top, and I think some of the cabbage leaf is still not fully submerted. We'll see what happens. 
+
+May 31: Everything looks and smells fine. The cabinet where I'm storing it is definately starting to smell like sauerkraut, and I'm seeing bubbles in the jar. 
+
